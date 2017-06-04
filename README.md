@@ -20,6 +20,7 @@ you get the picture.
 You must add refrences to 
 
 System.Windows.Forms
+
 System.Speech.Synthesis
 
 these must be added manually as this is a console application.
